@@ -31,7 +31,7 @@ jobs:
                 change-request: '{
 
                      "setCloseCode": "true",
-                     "autoCloseCode": true,
+                     "autoCloseChange": true,
                      "attributes": {
                           "short_description": "Automated Software Deployment",
                           "chg_model": "adffaa9e4370211072b7f6be5bb8f2ed",
